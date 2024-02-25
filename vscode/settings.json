@@ -5,6 +5,26 @@
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
+
+
+    // apc custom
+    "apc.electron": {
+    },
+
+    "apc.menubar.compact": true,
+
+    "apc.activityBar": {
+        "position": "bottom",
+        "size": 28,
+        "itemSize": 28,
+        "itemMargin": 8
+    },
+
+    "apc.statusBar": {
+        "position": "editor-bottom",
+        "height": 28
+    },
+
     "whichkey.delay": 0,
     "whichkey.sortOrder": "alphabetically",
     "whichkey.bindings": [
